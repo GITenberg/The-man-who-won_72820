@@ -1,0 +1,32 @@
+_repo: The-man-who-won_72820
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reynolds, Baillie, Mrs.
+    aliases:
+    - Reynolds, Mrs. Baillie
+    - Reynolds, Gertrude M.
+    - Reynolds, Gertrude M. Robins
+    - Robins, G. M. (Gertrude M.)
+    - Robins, Gertrude M.
+    gutenberg_agent_id: '37776'
+    url: http://www.gutenberg.org/2009/agents/37776
+description: ''
+gutenberg_issued: '2024-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72820'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x000619006&seq=7
+pgterms:marc905: 20240202222519reynolds
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bHutchinson & Co., $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The man who won
+url: http://www.gutenberg.org/ebooks/72820
